@@ -3,7 +3,7 @@
 ## Requirements
 
 - [yarn](https://yarnpkg.com/) v1.22.10+
-- [node.js](https://nodejs.org/en/) v14.15.1+
+- [node.js](npm install -g yarn) v14.15.1+
 
 ## Getting started
 
